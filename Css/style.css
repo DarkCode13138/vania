@@ -22,13 +22,14 @@
     background: url(number.png);
 }  
 .block {
-    display: block;
+    display: flex;
     width:210px ;
+    left:719px;
     height: 40px;
     border: none;
     background: linear-gradient(180deg, #ECCF9C 0%, #D6B780 100%);
     color: white;
-
+   
     font-size: 16px;
     font-family:Segoe UI;
      
